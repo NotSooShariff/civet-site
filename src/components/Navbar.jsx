@@ -30,7 +30,7 @@ const Navbar = () => {
           <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
               <img
-                src="https://flowbite.com/docs/images/logo.svg"
+                src="/civet-logo.png"
                 class="h-8"
                 alt="Website Logo"
               />
@@ -70,7 +70,7 @@ const Navbar = () => {
                     class="block py-2 px-3 text-white bg-purple-700 rounded md:bg-transparent md:text-purple-700 md:p-0 dark:text-white md:dark:text-purple-500"
                     aria-current="page"
                   >
-                    Home
+                    Buy Now!
                   </a>
                 </li>
                 <li>
