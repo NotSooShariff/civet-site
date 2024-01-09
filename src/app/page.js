@@ -14,10 +14,8 @@ export default function Home() {
           <h1 class="mt-16 text-center text-8xl text-white font-bold drop-shadow-lg">
             Meet Civet! <br/>
           </h1>
-          <p class="mt-5 text-center text-xl text-white opacity-70">
-          Our innovative project on the Solana blockchain, 
-          <br />
-          inspired by the unique Asian palm civet. 
+          <p class="mt-5 text-center text-3xl text-white opacity-70">
+          The Cat with a Utility 
           </p>
           <button
             type="button"

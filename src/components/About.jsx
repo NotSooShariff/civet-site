@@ -8,7 +8,7 @@ const About = () => {
           <h1 class="mt-30 text-center text-5xl text-white font-bold drop-shadow-lg">
            Inspired by the Unique Asian Palm Civet
           </h1>
-          <p class="mt-5 px-64 text-center text-xl text-white opacity-70">
+          <p class="mt-5 lg:px-64 text-center text-xl text-white opacity-70">
           This cat-like creature is behind the world's most luxurious coffee, Kopi Luwak, 
           <wbr />
           made from beans processed in its digestive system, creating a rare and exquisite flavor. 

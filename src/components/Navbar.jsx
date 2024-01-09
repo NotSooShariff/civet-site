@@ -27,7 +27,7 @@ const Navbar = () => {
   return (
     <div>
       {!isElementHidden && (
-          <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+          <div class="hidden max-w-screen-xl md:flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
               <img
                 src="/civet-logo.png"
